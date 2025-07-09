@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/04d9ed0a-f178-4dfb-b4d7-6340a6839f0c)
-" alt="NeighborFit Logo">
+  <img src="[![image](https://github.com/user-attachments/assets/04d9ed0a-f178-4dfb-b4d7-6340a6839f0c)
+"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.justdial.com%2FNanded%2FTruestate-Near-D-Mart-Wadi-Budruk%2F9999P2462-2462-231019143650-D8V8_BZDET&psig=AOvVaw0RGJhLkHplLZkRiTMTNdfh&ust=1752178406938000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOjxrIzMsI4DFQAAAAAdAAAAABAE)" alt="NeighborFit Logo">
 </p>
 
 # 🏡 NeighborFit – Discover Your Ideal Neighborhood
