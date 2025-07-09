@@ -29,7 +29,7 @@ export default function App() {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post('https://truestate.onrender.com', {
+      const response = await axios.post('https://truestate.onrender.com/match', {
         preferences: selectedPrefs,
         profession
       });
