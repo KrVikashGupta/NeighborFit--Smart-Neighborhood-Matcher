@@ -10,7 +10,7 @@ NeighborFit by **TruEstate** is a **PropTech tool** that empowers users to find 
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=NeighborFit+Hero+Image" alt="Hero Image">
+  <img src="https://via.placeholder.com/800x400?text=NeighborFit+Hero+Image](https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojHL6JLqwtdhs5XbQ8_N8UvwNU9NgYoDYFICdJF4VrvgxDuE2NgKbYfNlDR3paItoRd1r0_9nUYwHAC2sAW_swvfhI6dq92FuuyTMqfh1a8Fmd8LrprIZLnNt2f7aEK_VH4DGv=s1360-w1360-h1020-rw)" alt="Hero Image">
 </p>
 
 ---
