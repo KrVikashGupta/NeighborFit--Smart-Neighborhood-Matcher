@@ -10,7 +10,7 @@ NeighborFit by **TruEstate** is a **PropTech tool** that empowers users to find 
 ---
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=NeighborFit+Hero+Image](https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojHL6JLqwtdhs5XbQ8_N8UvwNU9NgYoDYFICdJF4VrvgxDuE2NgKbYfNlDR3paItoRd1r0_9nUYwHAC2sAW_swvfhI6dq92FuuyTMqfh1a8Fmd8LrprIZLnNt2f7aEK_VH4DGv=s1360-w1360-h1020-rw)" alt="Hero Image">
+  <img src="[https://via.placeholder.com/800x400?text=NeighborFit+Hero+Image](https://lh3.googleusercontent.com/gps-cs-s/AC9h4nojHL6JLqwtdhs5XbQ8_N8UvwNU9NgYoDYFICdJF4VrvgxDuE2NgKbYfNlDR3paItoRd1r0_9nUYwHAC2sAW_swvfhI6dq92FuuyTMqfh1a8Fmd8LrprIZLnNt2f7aEK_VH4DGv=s1360-w1360-h1020-rw)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.truestate.in%2F&psig=AOvVaw1I4FsZf8ZqdeK_4g1UXGWa&ust=1752178883001000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMig1J3NsI4DFQAAAAAdAAAAABAU)" alt="Hero Image">
 </p>
 
 ---
