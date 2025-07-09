@@ -1,35 +1,65 @@
-# 🏙️ NeighborFit – Find Your Ideal Neighborhood
+<p align="center">
+  <img src="https://via.placeholder.com/200x80?text=NeighborFit+Logo" alt="NeighborFit Logo">
+</p>
 
-NeighborFit is a **PropTech tool under TruEstate** helping users find neighborhoods in Bangalore that best match their lifestyle, preferences, and profession using **data-driven matching**.
+# 🏡 NeighborFit – Discover Your Ideal Neighborhood
 
-## ✨ Features
+NeighborFit by **TruEstate** is a **PropTech tool** that empowers users to find neighborhoods in Bangalore best aligned with their lifestyle, preferences, and profession, using **data-driven scoring and personalized matching**.
 
-✅ Input your **age**, **profession**, and **lifestyle preferences**  
-✅ See **ranked neighborhood recommendations** based on weighted scoring  
-✅ Modern, responsive frontend with clean design  
-✅ Express backend with CSV-based data ingestion and matching logic  
-✅ Easy to deploy on Render (static frontend + backend service)  
+---
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400?text=NeighborFit+Hero+Image" alt="Hero Image">
+</p>
+
+---
+
+## 🌟 Why NeighborFit?
+
+✅ **Personalized Recommendations:** Tailored based on your age, profession, and lifestyle.  
+✅ **Data-Driven Decisions:** Uses real neighborhood data and weighted scoring logic.  
+✅ **Clean, Modern UI:** Built with React and Tailwind for fast, responsive experience.  
+✅ **CSV-Powered Backend:** Ingests real neighborhood data for dynamic recommendations.  
+✅ **Easy Deployment:** Works seamlessly with Render static sites and backend services.
 
 ---
 
 ## 🚀 Tech Stack
 
-- **Frontend**: React, TailwindCSS, Axios
-- **Backend**: Node.js, Express, CSV Parser
-- **Deployment**: Render (static site + web service)
-- **Version Control**: Git, GitHub
+**Frontend:**
+- React
+- TailwindCSS
+- Axios
+
+**Backend:**
+- Node.js
+- Express.js
+- csv-parser
+
+**Deployment:**
+- Render (Static site + Web service)
+
+**Utilities:**
+- Git & GitHub
+- VS Code
 
 ---
 
 ## 📸 Screenshots
 
-| Landing Form | Matched Results |
-|-------------|----------------|
-| ![Landing](https://via.placeholder.com/400x250?text=Landing+Form) | ![Results](https://via.placeholder.com/400x250?text=Matched+Results) |
+### 🖥️ Input Your Preferences
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Form+Input+Screenshot" alt="Form Screenshot">
+</p>
+
+### 📊 View Ranked Neighborhood Recommendations
+<p align="center">
+  <img src="https://via.placeholder.com/600x300?text=Recommendations+Screenshot" alt="Recommendations Screenshot">
+</p>
 
 ---
 
-## ⚙️ Local Setup
+## ⚙️ Local Development Setup
 
 ### 1️⃣ Clone the Repository
 
