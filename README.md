@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://via.placeholder.com/200x80?text=NeighborFit+Logo" alt="NeighborFit Logo">
+  <img src="![image](https://github.com/user-attachments/assets/04d9ed0a-f178-4dfb-b4d7-6340a6839f0c)
+" alt="NeighborFit Logo">
 </p>
 
 # 🏡 NeighborFit – Discover Your Ideal Neighborhood
