@@ -1,4 +1,4 @@
-# 🧭 NeighborFit – Smart Neighborhood Matcher
+# 🧭 NeighborFit – Smart Neighborhood Recommender
 
 [![React](https://img.shields.io/badge/Frontend-React.js-61DAFB?logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Backend-Node.js-339933?logo=node.js)](https://nodejs.org/)
